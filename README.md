@@ -1,0 +1,1 @@
+![Snake animation](https://github.com/thalysviana/thalysviana/blob/output/github-contribution-grid-snake.svg)
