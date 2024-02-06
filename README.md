@@ -17,7 +17,8 @@
     Hi there! I'm Thalys
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  An enthusiastic iOS developer whose passion for technology transcends the conventional 9-to-5. I thrive on exploring the depths of cutting-edge technologies and innovative frameworks, and with a recent interest in AI and XR development.
 </div>
+
+An enthusiastic iOS developer, whose passion for technology goes beyond the conventional 9 to 5. I love exploring cutting-edge technologies and innovative frameworks, and I have recently become interested in AI and XR development.
 
 ![Snake animation](https://github.com/thalysviana/thalysviana/blob/output/github-contribution-grid-snake-dark.svg)
