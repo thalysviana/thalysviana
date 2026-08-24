@@ -19,6 +19,6 @@
   </h1>
 </div>
 
-An enthusiastic iOS developer, whose passion for technology goes beyond the conventional 9 to 5. I love exploring cutting-edge technologies and innovative frameworks, and I have recently become interested in AI and XR development.
+Software & Product Engineer with a background in iOS, now working across AI, agents, and alignment research. Interested in ambitious ideas, useful products, and understanding how intelligent systems behave.
 
 ![Snake animation](https://github.com/thalysviana/thalysviana/blob/output/github-contribution-grid-snake-dark.svg)
